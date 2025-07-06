@@ -2,3 +2,5 @@ openai
 gspread
 streamlit
 pandas
+requests
+beautifulsoup4
